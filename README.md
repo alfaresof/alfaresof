@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @alfaresof
-- 👀 I’m interested in full-stack dev with flutter and django
-- 🌱 I’m currently learning flutter
-- 💞️ I’m looking to collaborate on build apps
-- 📫 How to reach me @alfaresof
+- 👀 I’m interested in Mobile App dev with flutter 
+- 💞️ I’m in love with Java
+- 📫 How to reach me @alfaresof in twitter 
 
 <!---
 alfaresof/alfaresof is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
